@@ -11,3 +11,5 @@ New line added locally
 toto
 
 Encore une modif depuis develop
+
+# To solve issue
